@@ -46,22 +46,6 @@ CURRENT_BG='NONE'
   # Do not change this! Do not make it '\u2b80'; that is the old, wrong code point.
   SEGMENT_SEPARATOR=$'\ue0b0'
   FILE_BEG=$'\ue0b2'
-  # declare -A THEMES=(
-  #  ["name-back"]="cow"
-  #  ["name-fore"]="dog"
-  #  ["pwd-back"]="eeg"
-  #  ["pwd-fore"]="eeg2"
-  #  ["arrows-back"]="eeg3"
-  #  ["arrows-fore"]="eeg4"
-  #  ["arrows-ls-back"]="eeg5"
-  #  ["arrows-ls-fore"]="eeg6"
-  #  ["apple"]="eeg7"
-  #  ["file-back"]="eeg8"
-  #  ["file-fore"]="eeg9"
-  #  ["dir-fore"]="eeg10"
-  #  ["dir-back"]="eeg11"
-  # )
-
 }
 
 # Begin a segment
